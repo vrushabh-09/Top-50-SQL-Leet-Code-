@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
