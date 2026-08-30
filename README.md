@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1164-product-price-at-a-given-date) |
 | [1280-students-and-examinations](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
