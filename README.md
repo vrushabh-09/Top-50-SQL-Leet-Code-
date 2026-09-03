@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
