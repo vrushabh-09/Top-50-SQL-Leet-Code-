@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vrushabh-09/Top-50-SQL-Leet-Code-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
